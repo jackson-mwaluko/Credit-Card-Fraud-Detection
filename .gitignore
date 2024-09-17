@@ -1,0 +1,6 @@
+.csv
+*.csv
+
+.conda
+
+.DS_Store
